@@ -1,0 +1,50 @@
+Tuesday;Shoulder;Dumbbell Horizontal External Shoulder Rotation;5;160
+Monday;Glute;Clamshells;4;35
+Tuesday;Back;One-Handed Lat Pulldown;10;15
+Monday;Back;Back Extension;4;35
+Sunday;Glute;Dumbbell Frog Pumps;5;65
+Thursday;Leg;Body Weight Lunge;5;45
+Thursday;Forearm;Plate Wrist Curl;10;20
+Friday;Shoulder;Snatch Grip Behind the Neck Press;2;85
+Friday;Abs;Lying Windshield Wiper;9;35
+Thursday;Shoulder;Dumbbell Horizontal External Shoulder Rotation;7;30
+Thursday;Shoulder;Reverse Machine Fly;4;20
+Monday;Glute;Glute Bridge;10;40
+Wednesday;Bicep;Bodyweight Curl;2;10
+Thursday;Shoulder;Barbell Upright Row;7;45
+Friday;Bicep;Incline Dumbbell Curl;10;80
+Sunday;Chest;Resistance Band Chest Fly;8;0
+Tuesday;Leg;Hack Squat Machine;7;60
+Wednesday;Chest;Resistance Band Chest Fly;3;0
+Monday;Back;Snatch;7;230
+Friday;Abs;Kneeling Side Plank;3;0
+Friday;Leg;Chair Squat;2;100
+Tuesday;Abs;Mountain Climbers;10;115
+Thursday;Chest;Incline Dumbbell Press;2;35
+Saturday;Shoulder;Reverse Dumbbell Flyes;3;15
+Thursday;Leg;Barbell Lunge;5;30
+Saturday;Abs;Lying Windshield Wiper with Bent Knees;10;10
+Saturday;Shoulder;Seated Smith Machine Shoulder Press;8;190
+Saturday;Abs;Hanging Knee Raise;9;20
+Wednesday;Chest;Bench Press;7;230
+Sunday;Back;Lat Pulldown With Supinated Grip;9;185
+Tuesday;Tricep;Bench Dip;1;0
+Saturday;Abs;Side Plank;2;0
+Wednesday;Leg;Lying Leg Curl;3;95
+Tuesday;Bicep;Cable Curl With Bar;8;155
+Friday;Forearm;Farmers Walk;1;90
+Saturday;Shoulder;Bench Press;9;160
+Monday;Leg;Shallow Body Weight Lunge;8;135
+Saturday;Shoulder;Plate Front Raise;5;10
+Wednesday;Abs;Plank;4;0
+Friday;Back;Pause Deadlift;10;215
+Wednesday;Back;Inverted Row;9;75
+Wednesday;Bicep;Machine Bicep Curl;10;80
+Sunday;Chest;Floor Press;5;140
+Saturday;Leg;Barbell Walking Lunge;7;30
+Sunday;Bicep;Dumbbell Curl;5;35
+Saturday;Shoulder;Band External Shoulder Rotation;4;135
+Wednesday;Shoulder;Machine Shoulder Press;7;75
+Sunday;Back;Barbell Shrug;5;125
+Wednesday;Back;Back Extension;7;10
+Saturday;Back;Good Morning;2;20

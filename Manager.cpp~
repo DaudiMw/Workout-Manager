@@ -1,0 +1,167 @@
+//Name: Manager.cpp
+//Project: CMSC 202 Project 3, Fall 2023
+//Author:  Daudi Mwangi
+//Date:    10/14/23
+//Desc:    This file implements the Manager class.
+
+#include "Manager.h"
+
+#include <fstream>
+#include <string>
+#include <iostream>
+#include <cstdlib>
+#include <vector>
+
+using namespace std;
+
+Manager::Manager(string filename) {
+  m_fileName = filename;
+  MainMenu();
+}
+
+
+Manager::~Manager(){
+  for (int i = 0; i < m_workouts.size(); i++){
+    delete m_workouts.at(i);
+  }
+}
+
+void Manager::DisplayWorkouts(){
+  for (int i = 0; i < m_workouts.size(); i++){
+    cout << *m_workouts[i] << endl;
+ }
+}
+
+void Manager::ReadFile(){
+  string workout_name, category, exercise_name, tempreps, tempweight, line;
+  int reps, weight,comma1, comma2, comma3, comma4,  exercise_count = 0;
+  ifstream myfile;
+  myfile.open(m_fileName);
+  while (getline(myfile, line)){
+        comma1 = line.find(';');
+        comma2 = line.find(';', comma1 + 1);
+        comma3 = line.find(';', comma2 + 1);
+        comma4 = line.find(';', comma3 + 1);
+	
+        workout_name = line.substr(0, comma1);
+	
+        category = line.substr(comma1 + 1, (comma2 - 1) - comma1);
+	
+        exercise_name = line.substr(comma2 + 1, (comma3 - 1) - comma2);
+	
+        tempreps = line.substr(comma3 + 1, (comma4 - 1) - comma3);
+	
+        tempweight = line.substr(comma4 + 1, (comma4 - line.length()));
+	
+        reps = stoi(tempreps);
+        weight = stoi(tempweight);
+	exercise_count++;
+	Exercise* exerciseptr = new Exercise(category, exercise_name, reps, weight);
+	if (FindWorkout(workout_name) == -1){
+	  Workout* workoutptr = new Workout(workout_name);
+	  workoutptr -> InsertEnd(exerciseptr);
+	  m_workouts.push_back(workoutptr);
+	}
+	else{
+	  m_workouts[FindWorkout(workout_name)] -> InsertEnd(exerciseptr);
+	}
+  }
+  myfile.close();
+  cout << exercise_count << " exercises loaded across " << m_workouts.size() << " workouts." << endl;
+}
+
+
+void Manager::InsertNewExercise(){
+  string newworkout, exercise_name, category;
+  int reps, weight;
+  cout << "which workout would you like to insert into?" << endl;
+  cin >> newworkout;
+  cout << "What is the name of the exercise?" << endl;
+  cin.ignore();
+  getline(cin, exercise_name);
+  cout << "What is the category of the exercise?" << endl;
+  cin >> category;
+  cout << "How many reps are the exercise?" << endl;
+  cin >> reps;
+  cout << "How heavy are the weights? (in lbs)" << endl;
+  cin >> weight;
+  Exercise *exerciseptr = new Exercise(category, exercise_name, reps, weight);
+  if (FindWorkout(newworkout) == -1){
+    cout << "New workout " << newworkout << " was created." << endl;
+    Workout *workoutptr = new Workout(newworkout);
+    m_workouts.push_back(workoutptr);
+    workoutptr -> InsertEnd(exerciseptr);
+  }
+  else{
+    m_workouts[FindWorkout(newworkout)]->InsertEnd(exerciseptr);
+  }
+}
+
+int Manager::FindWorkout(string workoutname){
+  // int charind = 0;
+  // bool isEqual = false;
+  //if (m_workouts.size() != 0){
+  //for (int i = 0; i < m_workouts.size(); i++){
+  //isEqual = true;
+  //while (charind < m_workouts[i]->GetName().length() and charind < workoutname.length()){
+  // if (m_workouts[i]->GetName()[charind] != workoutname[charind]){
+  //isEqual = false;
+      //}
+      //charind++;
+  //}
+  //if (isEqual){
+  // return i;
+  //}
+  //}
+  if (m_workouts.size() == 0){
+    return -1;
+  }
+  for (int i = 0; i < m_workouts.size(); i++){
+    if (workoutname.compare(m_workouts[i]->GetName()) == 0){
+      return i;
+    }
+  }
+  return -1;
+}
+
+void Manager::MainMenu(){
+  ReadFile();
+  int choice = 0;
+  while (choice != 4){
+    cout << "What would you like to do?:" << endl;
+    cout << "1. Display Workouts" << endl;
+    cout << "2. Reverse Workouts" << endl;
+    cout << "3. Insert New Exercise" << endl;
+    cout << "4. Exit" << endl;
+    cin >> choice;
+    if (choice < 1 or choice > 4){
+      cout << "choose a number between 1 and 4 inclusively" << endl;
+    }
+    if (choice == 1){
+    DisplayWorkouts();
+    }
+    if (choice == 2){
+    ReverseWorkout();
+    }
+    if (choice == 3){
+    InsertNewExercise();
+    }
+  }
+  for (int i = 0; i < m_workouts.size(); i++){
+    delete m_workouts[i];
+    m_workouts[i] = nullptr;
+  }
+  cout << "Workouts removed from memory" << endl;
+  m_workouts.clear();
+  cout << "Deleting Workouts" << endl;
+  return;
+}
+
+void Manager::ReverseWorkout(){
+  Workout *temp;
+  for (int i = 0; i < m_workouts.size()/2; i++){
+      temp = m_workouts[0 + i];
+      m_workouts[0 + i] = m_workouts[m_workouts.size() - 1 - i];
+      m_workouts[m_workouts.size() - 1 - i] = temp;
+    }
+}

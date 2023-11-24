@@ -1,0 +1,312 @@
+
+***Manager***
+
+Opened File
+50 exercises loaded across 7 workouts.
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+1
+
+******************
+Workout for Tuesday
+6 exercises
+Shoulder:Dumbbell Horizontal External Shoulder Rotation(5@160lbs)
+Back:One-Handed Lat Pulldown(10@15lbs)
+Leg:Hack Squat Machine(7@60lbs)
+Abs:Mountain Climbers(10@115lbs)
+Tricep:Bench Dip(1@0lbs)
+Bicep:Cable Curl With Bar(8@155lbs)
+
+******************
+Workout for Monday
+5 exercises
+Glute:Clamshells(4@35lbs)
+Back:Back Extension(4@35lbs)
+Glute:Glute Bridge(10@40lbs)
+Back:Snatch(7@230lbs)
+Leg:Shallow Body Weight Lunge(8@135lbs)
+
+******************
+Workout for Sunday
+6 exercises
+Glute:Dumbbell Frog Pumps(5@65lbs)
+Chest:Resistance Band Chest Fly(8@0lbs)
+Back:Lat Pulldown With Supinated Grip(9@185lbs)
+Chest:Floor Press(5@140lbs)
+Bicep:Dumbbell Curl(5@35lbs)
+Back:Barbell Shrug(5@125lbs)
+
+******************
+Workout for Thursday
+7 exercises
+Leg:Body Weight Lunge(5@45lbs)
+Forearm:Plate Wrist Curl(10@20lbs)
+Shoulder:Dumbbell Horizontal External Shoulder Rotation(7@30lbs)
+Shoulder:Reverse Machine Fly(4@20lbs)
+Shoulder:Barbell Upright Row(7@45lbs)
+Chest:Incline Dumbbell Press(2@35lbs)
+Leg:Barbell Lunge(5@30lbs)
+
+******************
+Workout for Friday
+7 exercises
+Shoulder:Snatch Grip Behind the Neck Press(2@85lbs)
+Abs:Lying Windshield Wiper(9@35lbs)
+Bicep:Incline Dumbbell Curl(10@80lbs)
+Abs:Kneeling Side Plank(3@0lbs)
+Leg:Chair Squat(2@100lbs)
+Forearm:Farmers Walk(1@90lbs)
+Back:Pause Deadlift(10@215lbs)
+
+******************
+Workout for Wednesday
+9 exercises
+Bicep:Bodyweight Curl(2@10lbs)
+Chest:Resistance Band Chest Fly(3@0lbs)
+Chest:Bench Press(7@230lbs)
+Leg:Lying Leg Curl(3@95lbs)
+Abs:Plank(4@0lbs)
+Back:Inverted Row(9@75lbs)
+Bicep:Machine Bicep Curl(10@80lbs)
+Shoulder:Machine Shoulder Press(7@75lbs)
+Back:Back Extension(7@10lbs)
+
+******************
+Workout for Saturday
+10 exercises
+Shoulder:Reverse Dumbbell Flyes(3@15lbs)
+Abs:Lying Windshield Wiper with Bent Knees(10@10lbs)
+Shoulder:Seated Smith Machine Shoulder Press(8@190lbs)
+Abs:Hanging Knee Raise(9@20lbs)
+Abs:Side Plank(2@0lbs)
+Shoulder:Bench Press(9@160lbs)
+Shoulder:Plate Front Raise(5@10lbs)
+Leg:Barbell Walking Lunge(7@30lbs)
+Shoulder:Band External Shoulder Rotation(4@135lbs)
+Back:Good Morning(2@20lbs)
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+5
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+0
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+2
+Which workout to reverse?
+Choose 1 - 7
+Done reversing Workout 5
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+3
+What is the name of the workout you would like to insert into?
+What is the category of the exercise?
+Bicep
+What is the name of the exercise?
+Curls
+How many reps did you do?
+3
+How much weight did you use? (in lbs.)
+45
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+1
+
+******************
+Workout for Tuesday
+6 exercises
+Shoulder:Dumbbell Horizontal External Shoulder Rotation(5@160lbs)
+Back:One-Handed Lat Pulldown(10@15lbs)
+Leg:Hack Squat Machine(7@60lbs)
+Abs:Mountain Climbers(10@115lbs)
+Tricep:Bench Dip(1@0lbs)
+Bicep:Cable Curl With Bar(8@155lbs)
+
+******************
+Workout for Monday
+5 exercises
+Glute:Clamshells(4@35lbs)
+Back:Back Extension(4@35lbs)
+Glute:Glute Bridge(10@40lbs)
+Back:Snatch(7@230lbs)
+Leg:Shallow Body Weight Lunge(8@135lbs)
+
+******************
+Workout for Sunday
+6 exercises
+Glute:Dumbbell Frog Pumps(5@65lbs)
+Chest:Resistance Band Chest Fly(8@0lbs)
+Back:Lat Pulldown With Supinated Grip(9@185lbs)
+Chest:Floor Press(5@140lbs)
+Bicep:Dumbbell Curl(5@35lbs)
+Back:Barbell Shrug(5@125lbs)
+
+******************
+Workout for Thursday
+7 exercises
+Leg:Body Weight Lunge(5@45lbs)
+Forearm:Plate Wrist Curl(10@20lbs)
+Shoulder:Dumbbell Horizontal External Shoulder Rotation(7@30lbs)
+Shoulder:Reverse Machine Fly(4@20lbs)
+Shoulder:Barbell Upright Row(7@45lbs)
+Chest:Incline Dumbbell Press(2@35lbs)
+Leg:Barbell Lunge(5@30lbs)
+
+******************
+Workout for Friday
+7 exercises
+Back:Pause Deadlift(10@215lbs)
+Forearm:Farmers Walk(1@90lbs)
+Leg:Chair Squat(2@100lbs)
+Abs:Kneeling Side Plank(3@0lbs)
+Bicep:Incline Dumbbell Curl(10@80lbs)
+Abs:Lying Windshield Wiper(9@35lbs)
+Shoulder:Snatch Grip Behind the Neck Press(2@85lbs)
+
+******************
+Workout for Wednesday
+10 exercises
+Bicep:Bodyweight Curl(2@10lbs)
+Chest:Resistance Band Chest Fly(3@0lbs)
+Chest:Bench Press(7@230lbs)
+Leg:Lying Leg Curl(3@95lbs)
+Abs:Plank(4@0lbs)
+Back:Inverted Row(9@75lbs)
+Bicep:Machine Bicep Curl(10@80lbs)
+Shoulder:Machine Shoulder Press(7@75lbs)
+Back:Back Extension(7@10lbs)
+Bicep:Curls(3@45lbs)
+
+******************
+Workout for Saturday
+10 exercises
+Shoulder:Reverse Dumbbell Flyes(3@15lbs)
+Abs:Lying Windshield Wiper with Bent Knees(10@10lbs)
+Shoulder:Seated Smith Machine Shoulder Press(8@190lbs)
+Abs:Hanging Knee Raise(9@20lbs)
+Abs:Side Plank(2@0lbs)
+Shoulder:Bench Press(9@160lbs)
+Shoulder:Plate Front Raise(5@10lbs)
+Leg:Barbell Walking Lunge(7@30lbs)
+Shoulder:Band External Shoulder Rotation(4@135lbs)
+Back:Good Morning(2@20lbs)
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+2
+Which workout to reverse?
+Choose 1 - 7
+Done reversing Workout 7
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+1
+
+******************
+Workout for Tuesday
+6 exercises
+Shoulder:Dumbbell Horizontal External Shoulder Rotation(5@160lbs)
+Back:One-Handed Lat Pulldown(10@15lbs)
+Leg:Hack Squat Machine(7@60lbs)
+Abs:Mountain Climbers(10@115lbs)
+Tricep:Bench Dip(1@0lbs)
+Bicep:Cable Curl With Bar(8@155lbs)
+
+******************
+Workout for Monday
+5 exercises
+Glute:Clamshells(4@35lbs)
+Back:Back Extension(4@35lbs)
+Glute:Glute Bridge(10@40lbs)
+Back:Snatch(7@230lbs)
+Leg:Shallow Body Weight Lunge(8@135lbs)
+
+******************
+Workout for Sunday
+6 exercises
+Glute:Dumbbell Frog Pumps(5@65lbs)
+Chest:Resistance Band Chest Fly(8@0lbs)
+Back:Lat Pulldown With Supinated Grip(9@185lbs)
+Chest:Floor Press(5@140lbs)
+Bicep:Dumbbell Curl(5@35lbs)
+Back:Barbell Shrug(5@125lbs)
+
+******************
+Workout for Thursday
+7 exercises
+Leg:Body Weight Lunge(5@45lbs)
+Forearm:Plate Wrist Curl(10@20lbs)
+Shoulder:Dumbbell Horizontal External Shoulder Rotation(7@30lbs)
+Shoulder:Reverse Machine Fly(4@20lbs)
+Shoulder:Barbell Upright Row(7@45lbs)
+Chest:Incline Dumbbell Press(2@35lbs)
+Leg:Barbell Lunge(5@30lbs)
+
+******************
+Workout for Friday
+7 exercises
+Back:Pause Deadlift(10@215lbs)
+Forearm:Farmers Walk(1@90lbs)
+Leg:Chair Squat(2@100lbs)
+Abs:Kneeling Side Plank(3@0lbs)
+Bicep:Incline Dumbbell Curl(10@80lbs)
+Abs:Lying Windshield Wiper(9@35lbs)
+Shoulder:Snatch Grip Behind the Neck Press(2@85lbs)
+
+******************
+Workout for Wednesday
+10 exercises
+Bicep:Bodyweight Curl(2@10lbs)
+Chest:Resistance Band Chest Fly(3@0lbs)
+Chest:Bench Press(7@230lbs)
+Leg:Lying Leg Curl(3@95lbs)
+Abs:Plank(4@0lbs)
+Back:Inverted Row(9@75lbs)
+Bicep:Machine Bicep Curl(10@80lbs)
+Shoulder:Machine Shoulder Press(7@75lbs)
+Back:Back Extension(7@10lbs)
+Bicep:Curls(3@45lbs)
+
+******************
+Workout for Saturday
+10 exercises
+Back:Good Morning(2@20lbs)
+Shoulder:Band External Shoulder Rotation(4@135lbs)
+Leg:Barbell Walking Lunge(7@30lbs)
+Shoulder:Plate Front Raise(5@10lbs)
+Shoulder:Bench Press(9@160lbs)
+Abs:Side Plank(2@0lbs)
+Abs:Hanging Knee Raise(9@20lbs)
+Shoulder:Seated Smith Machine Shoulder Press(8@190lbs)
+Abs:Lying Windshield Wiper with Bent Knees(10@10lbs)
+Shoulder:Reverse Dumbbell Flyes(3@15lbs)
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+4
+Workouts removed from memory
+Deleting Workouts

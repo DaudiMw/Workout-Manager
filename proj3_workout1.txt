@@ -1,0 +1,5 @@
+Monday;Back;Barbell Shrug;3;60
+Monday;Chest;Bench Press;3;205
+Monday;Legs;Toe Raises;3;0
+Monday;Back;Deadlift;4;115
+Monday;Legs;Seated Leg Press;4;145

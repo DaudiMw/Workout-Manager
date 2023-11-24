@@ -1,0 +1,112 @@
+//Name: Workout.cpp
+//Project: CMSC 202 Project 3, Fall 2023
+//Author:  Daudi Mwangi
+//Date:    10/14/23
+//Desc: This file implements the Workout Class.
+
+#include <string>
+#include <iostream>
+#include <iomanip>
+#include <cmath>
+#include "Workout.h"
+using namespace std;
+
+Workout::Workout() {
+    m_head = nullptr;
+    m_tail = nullptr;
+    m_size = 0;
+}
+
+Workout::Workout(string name) {
+    m_head = nullptr;
+    m_tail = nullptr;
+    m_size = 0;
+    m_name = name;
+}
+
+Workout::~Workout(){
+    Exercise* curr = m_head;
+    while (curr != nullptr){
+        m_head = curr;
+        curr = curr -> GetNext();
+        delete m_head;
+    }
+    m_head = nullptr;
+    m_tail = nullptr;
+    m_size = 0;
+}
+
+
+
+void Workout::InsertEnd(Exercise *newexercise){
+  Exercise* temp = m_head;
+  if (m_head == nullptr){
+    m_head = newexercise;
+  }
+  else{
+    while (temp -> GetNext() != nullptr){
+      temp = temp -> GetNext();
+    }
+    temp -> SetNext(newexercise);
+    m_tail = newexercise;
+    m_tail -> SetNext(nullptr);
+    temp = nullptr;
+  }
+  m_size++;
+}
+string Workout::GetName() {return m_name;}
+
+int Workout::GetSize() {return m_size;}
+
+void Workout::ReverseWorkout() {
+    Exercise *temp1, *temp2, *temp3;
+    if (m_head == nullptr){
+        cout << "There are no exercises." << endl;
+    }
+    else  if (m_head -> GetNext() == nullptr){
+      cout << "There is only one exercise" << endl;
+    }
+    else {
+    temp1 = m_head;
+    temp2 = temp1 -> GetNext();
+    temp3 = temp2 -> GetNext();
+    temp1 -> SetNext(nullptr);
+    temp2 -> SetNext(temp1);
+    while (temp3 != nullptr){
+        temp1 = temp2;
+        temp2 = temp3;
+        temp3 = temp3 -> GetNext();
+        temp2 -> SetNext(temp1);
+    }
+    m_head = temp2;
+    }
+}
+
+Exercise* Workout::GetData(int nodenum){
+    Exercise* temp = m_head;
+    int pos = 0;
+    while (temp != nullptr){
+        if (pos == nodenum){
+            return temp;
+        }
+        pos++;
+        temp = temp -> GetNext();
+    }
+    cout << nodenum << " Is not an index of the list." << endl;
+}
+
+ostream &operator << (ostream &output, Workout &myWorkout){
+    output << "Workout for " << myWorkout.m_name << endl;
+    output << myWorkout.m_size << " exercises" << endl;
+    for (int i = 0; i < myWorkout.GetSize(); i++){
+      output << myWorkout.GetData(i) -> GetCategory() << ":";
+      output << myWorkout.GetData(i) -> GetName() << "(";
+      output << myWorkout.GetData(i) -> GetReps() << "@";
+      output << myWorkout.GetData(i) -> GetWeight() << ")" << endl;
+    }
+    return output;
+}
+
+
+
+

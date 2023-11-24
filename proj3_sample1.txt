@@ -1,0 +1,113 @@
+
+***Manager***
+
+Opened File
+5 exercises loaded across 1 workouts.
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+1
+
+******************
+Workout for Monday
+5 exercises
+Back:Barbell Shrug(3@60lbs)
+Chest:Bench Press(3@205lbs)
+Legs:Toe Raises(3@0lbs)
+Back:Deadlift(4@115lbs)
+Legs:Seated Leg Press(4@145lbs)
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+2
+Done reversing Workout 1
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+1
+
+******************
+Workout for Monday
+5 exercises
+Legs:Seated Leg Press(4@145lbs)
+Back:Deadlift(4@115lbs)
+Legs:Toe Raises(3@0lbs)
+Chest:Bench Press(3@205lbs)
+Back:Barbell Shrug(3@60lbs)
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+3
+What is the name of the workout you would like to insert into?
+Tuesday
+New Workout Started
+What is the category of the exercise?
+Legs
+What is the name of the exercise?
+Squats
+How many reps did you do?
+3
+How much weight did you use? (in lbs.)
+45
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+3
+What is the name of the workout you would like to insert into?
+Monday
+What is the category of the exercise?
+Glutes
+What is the name of the exercise?
+Seated Leg Press
+How many reps did you do?
+3
+How much weight did you use? (in lbs.)
+145
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+1
+
+******************
+Workout for Monday
+6 exercises
+Legs:Seated Leg Press(4@145lbs)
+Back:Deadlift(4@115lbs)
+Legs:Toe Raises(3@0lbs)
+Chest:Bench Press(3@205lbs)
+Back:Barbell Shrug(3@60lbs)
+Glutes:Seated Leg Press(3@145lbs)
+
+******************
+Workout for Tuesday
+1 exercises
+Legs:Squats(3@45lbs)
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+2
+Which workout to reverse?
+Choose 1 - 2
+Done reversing Workout 1
+What would you like to do?: 
+1. Display Workouts
+2. Reverse Workouts
+3. Insert New Exercise
+4. Exit
+4
+Workouts removed from memory
+Deleting Workouts

@@ -1,0 +1,150 @@
+Oct 25;Chest;Bar Dip;4;210
+Oct 16;Leg;Romanian Deadlift;3;120
+Oct 10;Bicep;Dumbbell Curl;10;235
+Oct 28;Back;Dumbbell Deadlift;3;25
+Oct 17;Tricep;Bench Dip;8;115
+Oct 14;Back;Seated Machine Row;5;105
+Oct 3;Bicep;Concentration Curl;3;155
+Oct 16;Back;Pendlay Row;6;20
+Oct 3;Bicep;Bodyweight Curl;9;70
+Oct 18;Shoulder;Overhead Press;4;115
+Oct 22;Chest;Decline Bench Press;10;30
+Oct 23;Back;Trap Bar Deadlift With Low Handles;5;165
+Oct 26;Cardio;Eliptical;3;160
+Oct 9;Forearm;One-Handed Bar Hang;9;35
+Oct 22;Glute;Hip Abduction Machine;4;95
+Oct 29;Leg;Body Weight Lunge;5;10
+Oct 28;Back;Trap Bar Deadlift With High Handles;5;185
+Oct 4;Shoulder;Seated Barbell Overhead Press;3;90
+Oct 2;Chest;Push-Up Against Wall;10;140
+Oct 18;Leg;Hack Squat Machine;4;225
+Oct 13;Abs;Dead Bug;9;230
+Oct 21;Calves;Eccentric Heel Drop;7;225
+Oct 24;Back;Lat Pulldown With Supinated Grip;8;80
+Oct 28;Shoulder;Split Jerk;5;245
+Oct 19;Bicep;Incline Dumbbell Curl;4;110
+Oct 9;Back;Hang Clean;1;180
+Oct 3;Tricep;Bench Dip;10;175
+Oct 15;Leg;Lying Leg Curl;1;20
+Oct 12;Glute;Machine Glute Kickbacks;6;45
+Oct 17;Abs;Dead Bug;3;110
+Oct 5;Forearm;Bar Hang;1;90
+Oct 21;Chest;Kneeling Incline Push-Up;10;145
+Oct 19;Shoulder;Barbell Upright Row;1;180
+Oct 7;Forearm;Plate Pinch;5;15
+Oct 28;Back;Hang Clean;6;55
+Oct 23;Shoulder;Overhead Press;6;60
+Oct 19;Back;Chin-Up;6;160
+Oct 23;Leg;Lying Leg Curl;8;245
+Oct 3;Glute;Machine Glute Kickbacks;1;235
+Oct 19;Abs;Hanging Leg Raise;10;20
+Oct 21;Back;Rack Pull;5;220
+Oct 20;Bicep;Concentration Curl;10;20
+Oct 5;Leg;Body Weight Lunge;7;100
+Oct 23;Glute;Standing Glute Kickback in Machine;1;60
+Oct 21;Tricep;Tricep Pushdown With Bar;2;125
+Oct 23;Leg;Dumbbell Lunge;2;45
+Oct 11;Back;Deficit Deadlift;6;180
+Oct 14;Glute;Glute Bridge;10;15
+Oct 7;Glute;Standing Glute Kickback in Machine;9;165
+Oct 9;Chest;Push-Ups With Feet in Rings;5;190
+Oct 19;Glute;Standing Glute Kickback in Machine;4;220
+Oct 27;Leg;Step Up;4;210
+Oct 31;Abs;Cable Crunch;2;160
+Oct 31;Bicep;Concentration Curl;6;120
+Oct 20;Chest;Dumbbell Chest Fly;10;200
+Oct 15;Forearm;Bar Hang;4;50
+Oct 4;Chest;Decline Bench Press;6;155
+Oct 26;Abs;Oblique Crunch;7;210
+Oct 17;Back;Power Clean;7;125
+Oct 3;Shoulder;Dumbbell Shoulder Press;1;180
+Oct 15;Glute;Hip Thrust;9;165
+Oct 5;Abs;Hanging Knee Raise;4;15
+Oct 11;Forearm;Bar Hang;2;40
+Oct 30;Glute;Machine Glute Kickbacks;1;60
+Oct 3;Back;Sumo Deadlift;6;60
+Oct 26;Leg;Seated Leg Curl;10;55
+Oct 5;Leg;Box Squat;2;210
+Oct 7;Glute;Standing Glute Kickback in Machine;5;80
+Oct 7;Shoulder;Band Internal Shoulder Rotation;6;250
+Oct 8;Shoulder;Split Jerk;7;95
+Oct 12;Glute;Machine Glute Kickbacks;2;15
+Oct 21;Abs;Lying Windshield Wiper;3;145
+Oct 2;Glute;Hip Thrust Machine;8;225
+Oct 3;Back;Rack Pull;8;150
+Oct 21;Back;Pause Deadlift;7;25
+Oct 17;Forearm;Plate Wrist Curl;7;250
+Oct 7;Back;Clean;8;215
+Oct 27;Back;Kettlebell Swing;6;40
+Oct 11;Chest;Decline Bench Press;4;50
+Oct 15;Back;Chin-Up;4;185
+Oct 17;Abs;Oblique Crunch;6;215
+Oct 18;Tricep;Close-Grip Push-Up;5;45
+Oct 17;Leg;Romanian Deadlift;3;205
+Oct 5;Tricep;Overhead Cable Triceps Extension;7;100
+Oct 29;Back;Dumbbell Row;9;230
+Oct 11;Leg;Smith Machine Squat;9;160
+Oct 12;Back;Power Snatch;1;210
+Oct 7;Back;Inverted Row with Underhand Grip;3;30
+Oct 11;Glute;Hip Thrust Machine;9;145
+Oct 15;Glute;Glute Bridge;5;215
+Oct 4;Back;Chin-Up;4;100
+Oct 21;Abs;Kneeling Side Plank;1;125
+Oct 11;Back;Snatch Grip Deadlift;8;245
+Oct 8;Chest;Incline Bench Press;3;100
+Oct 19;Leg;Barbell Walking Lunge;9;245
+Oct 9;Shoulder;Dumbbell Front Raise;2;105
+Oct 23;Chest;Close-Grip Bench Press;10;200
+Oct 25;Chest;Standing Resistance Band Chest Fly;5;95
+Oct 18;Back;Dumbbell Deadlift;6;225
+Oct 6;Calves;Standing Calf Raise;5;145
+Oct 4;Shoulder;Power Jerk;1;80
+Oct 28;Back;Block Snatch;6;210
+Oct 23;Back;Clean;8;130
+Oct 1;Back;Hang Clean;6;175
+Oct 25;Chest;Kneeling Push-Up;7;20
+Oct 30;Shoulder;Machine Shoulder Press;10;105
+Oct 3;Tricep;Tricep Pushdown With Bar;4;30
+Oct 17;Bicep;Barbell Preacher Curl;4;160
+Oct 20;Leg;Hack Squat Machine;6;110
+Oct 8;Back;Pendlay Row;6;175
+Oct 14;Glute;Dumbbell Romanian Deadlift;1;105
+Oct 12;Shoulder;Front Hold;9;95
+Oct 12;Back;Inverted Row with Underhand Grip;8;155
+Oct 25;Shoulder;Power Jerk;7;235
+Oct 28;Forearm;Barbell Wrist Curl;3;165
+Oct 22;Tricep;Bench Dip;3;145
+Oct 10;Leg;Dumbbell Squat;5;240
+Oct 1;Tricep;Tricep Bodyweight Extension;2;195
+Oct 8;Leg;Smith Machine Squat;7;50
+Oct 17;Shoulder;Split Jerk;5;155
+Oct 6;Tricep;Dumbbell Lying Triceps Extension;8;240
+Oct 23;Shoulder;Squat Jerk;2;65
+Oct 23;Chest;Incline Push-Up;1;145
+Oct 27;Shoulder;Monkey Row;2;25
+Oct 24;Back;Seated Machine Row;6;175
+Oct 19;Chest;Pec Deck;2;135
+Oct 7;Chest;Dumbbell Pullover;4;35
+Oct 30;Shoulder;Machine Lateral Raise;9;165
+Oct 29;Abs;Dead Bug;4;85
+Oct 13;Shoulder;Dumbbell Front Raise;2;205
+Oct 27;Back;Power Snatch;8;245
+Oct 2;Bicep;Barbell Preacher Curl;1;170
+Oct 2;Chest;Standing Resistance Band Chest Fly;1;240
+Oct 18;Chest;Incline Dumbbell Press;5;65
+Oct 15;Glute;Hip Abduction Machine;2;250
+Oct 13;Shoulder;Reverse Dumbbell Flyes;1;95
+Oct 9;Shoulder;Cable Rear Delt Row;3;70
+Oct 4;Shoulder;Split Jerk;1;190
+Oct 25;Shoulder;Cable Rear Delt Row;5;165
+Oct 7;Chest;Bar Dip;6;245
+Oct 6;Shoulder;Dumbbell Horizontal Internal Shoulder Rotation;6;30
+Oct 11;Shoulder;Dumbbell Horizontal Internal Shoulder Rotation;4;220
+Oct 29;Shoulder;Reverse Cable Flyes;2;35
+Oct 27;Leg;Leg Press;7;70
+Oct 23;Shoulder;Cable Rear Delt Row;5;35
+Oct 18;Shoulder;Barbell Front Raise;5;145
+Oct 1;Shoulder;Dumbbell Rear Delt Row;1;160
+Oct 4;Abs;Dead Bug;6;195
+Oct 26;Abs;Dead Bug;9;220
+Oct 31;Chest;Standing Resistance Band Chest Fly;3;245

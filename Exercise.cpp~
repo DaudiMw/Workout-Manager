@@ -1,0 +1,39 @@
+//Name: Exercise.cpp
+//Project: CMSC 202 Project 3, Fall 2023
+//Author:  Daudi Mwangi
+//Date:    10/14/23
+//Desc: This file implements the Exercise Class.
+
+#include <iostream>
+#include <string>
+#include "Exercise.h"
+using namespace std;
+
+Exercise::Exercise(){}
+
+Exercise::Exercise(string category, string name, int reps, int weight){
+    m_category = category;
+    m_name = name;
+    m_reps = reps;
+    m_weight =  weight;
+}
+
+string Exercise::GetCategory() {return m_category;}
+
+string Exercise::GetName() {return m_name;}
+
+int Exercise::GetReps() {return m_reps;}
+
+int Exercise::GetWeight() {return m_weight;}
+
+Exercise* Exercise::GetNext() {return m_next;}
+
+void Exercise::SetCategory(string category) {m_category = category;}
+
+void Exercise::SetName(string name) {m_name = name;}
+
+void Exercise::SetNext(Exercise* next) {m_next = next;}
+
+void Exercise::SetReps(int reps) {m_reps = reps;}
+
+void Exercise::SetWeight(int weight) {m_weight = weight;}
